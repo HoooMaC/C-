@@ -1,0 +1,4 @@
+Jadi, kesimpulannya jika membuat object di stack dengan mendeklarasikannya di class member, maka lifetime dari object pertama akan mengikuti lifetime dari object kedua.
+Jika membuat object pada heap maka perlu mendeklarasikannya di class member First* obj dan asignment dengan operator new pada constructor  class kedua (bisa optional). Dan
+jangan lupa untuk menghapusnya dengan keyword delete pada destructor class kedua (bisa optional).
+Dan jika membuat object pada constructor maka lifetime object pertama hanya akan bertahan pada constructor itu saja.

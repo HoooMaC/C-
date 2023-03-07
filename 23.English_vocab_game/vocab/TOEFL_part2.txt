@@ -1,0 +1,101 @@
+50
+Approbation n
+persetujuan
+Apt adj
+tepat
+Aptitude n
+bakat
+Arbiter n
+wasit
+Arbitary adj
+sewenang-wenang
+Archetype n
+pola dasar
+Arid adj
+kering
+Aristocracy n
+kaum bangsawan
+Armistice n
+gencatan senjata
+Artful adj
+licik
+Articulate v
+mengucapkan dengan jelas
+Articulate adj
+pandai berbicara
+Ascetic adj
+pertapa
+Ascend v
+naik
+Asseverate v
+bersumpah
+Assiduous adj
+tekun
+Asylum n
+suaka
+Atheist n
+ateis
+Attribute n
+atribut 
+Attribute v
+menghubungkan
+Augment v
+menambah
+Auspicious adj
+menguntungkan
+Authentic adj
+autentik
+Autocratic adj
+otokratis
+Avarice n
+ketamakan
+Awry adv
+serba salah
+Banal adj
+dangkal
+Bane n
+kutukan
+Baneful adj
+yang merusak
+Banter n
+kelakar
+Baton n
+tongkat estafet
+Belie v
+mengingkari
+Bellicose adj
+suka berperang
+Belligerent adj
+berperang
+Benevolent adj
+penuh kebajikan
+Bereave v
+kehilangan
+Besmirch v
+menodai
+Biased adj
+bias
+Bibliophile n
+kutu buku
+Bizzare adj
+aneh 
+Bland adj
+hambar
+Blaze v
+api 
+Blemish n
+cacat
+Blend v
+mencampur
+Blight v
+merusakkan
+Blithe adj
+gembira
+Bog n
+rawa
+Bombast n
+omong besar
+Bombastic adj
+bombastis
+Boorish adj
+kasar

@@ -1,0 +1,101 @@
+50
+Abandon v
+meninggalkan
+Abash v
+memalukan
+Abdicate v
+melepaskan
+Abet v
+bersekongkol
+Abridge v
+membatasi
+Abrogate v
+membatalkan
+Abstemious adj
+hemat
+Academic adj
+akademik
+Accede v
+menyetujui
+Accelerate v
+mempercepat
+Accolade n
+penghargaan
+Accord n
+berdasarkan
+Acrimonious adj
+sengit
+Acumen n
+ketajaman
+Admonish v
+menegur
+Admonition n
+peringatan
+Adversary n
+musuh
+Adverse adj
+merugikan
+Adversity n
+kesulitan
+Aesthetic adj
+estetis
+Affable adj
+ramah
+Affluent adj
+makmur
+Aggravate v
+memperberat
+Aggression n
+serangan
+Aggressive adj
+agresif
+Alacrity n
+kesigapan
+Alienate v
+menjauhkan
+Allay v
+menenangkan
+Allude v
+menyinggung
+Allure v
+memikat
+Allure n
+daya tarik
+Allusion n
+kiasan
+Ambioguous adj
+tidak jelas
+Amenable adj
+menerima
+Amiable adj
+ramah
+Anachronism n
+anakronisme
+Analogous adj
+sejalan
+Analogy n
+analogi
+anarchy n
+anarki
+Animus n
+kebencian
+Annals n
+sejarah
+Anonymous adj
+anonim
+Anthology n
+antology
+Antithesis n
+antitesis
+Antithetical adj
+berlawanan
+Apathetic adj
+apatis
+Apathy n
+apati
+Apprehend v
+menangkap
+Apprehensive adj
+gelisah
+Apprise v
+memberitahukan

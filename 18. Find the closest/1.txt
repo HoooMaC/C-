@@ -1,0 +1,6 @@
+your give c++ program like this
+vector<array<int,2>> obstacle_position = {{11,2}, {42, 2}, {36,3}, {43,4}, 44, 45, 46, 47, 48, 49, 32, 33, 34, 35, 36, 37, 38, 28, 42, 21, 25, 30, 25, 35, 16, 22, 23, 24, 25, 26, 27, 28, 25, 35, 25, 35, 6, 18, 31, 35, 35,  4, 28,  8, 25, 16, 25, 25,
+     4,  4,  4,  4,  4,  4,  4,  5,  5,  5,  5,  5,  5,  5,  6,  6,  8,  8,  8,  9,  9, 10, 10, 10, 10, 10, 10, 10, 10, 11, 11, 12, 12, 13, 13, 13, 13, 14, 15, 15, 16, 17, 18, 18, 19};
+int player_position[2] = {42,3}
+if column 0 is x and column 1 is y
+make a program to find the closest obstacle with player position
