@@ -1,5 +1,4 @@
 /*Jika program error kemungkinan karena compiler
-https://drive.google.com/drive/folders/1L-c1icDeCv4y40rHON_Anh8PbYMNDoYn
 Ini link untuk jaga-jaga jika program tidak bisa dicompile*/
 /*Memasukkan header yang digunakan*/
 #include <iostream>
